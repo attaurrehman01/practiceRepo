@@ -6,3 +6,5 @@ Now I'll be using this repository for DevOps class practice
 Now it's time for merge activity
 
 Let's practice merge activity
+
+All set
